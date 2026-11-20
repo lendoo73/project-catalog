@@ -31,6 +31,7 @@ An index of projects organized by programming language.
 <details>
 <summary>Computer Vision</summary>
 <p><a href="https://github.com/lendoo73/passenger-counter">Passenger Counter</a> &mdash; Counts passengers in bus footage using a trained YOLO model.</p>
+<p><a href="https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project">Deep Learning Recognition Using YOLOv8</a> &mdash; Complete YOLOv8 deep learning recognition project.</p>
 </details>
 
 <details>
