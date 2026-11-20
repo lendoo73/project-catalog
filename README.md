@@ -34,6 +34,11 @@ An index of projects organized by programming language.
 </details>
 
 <details>
+<summary>Timeseries Forecasting</summary>
+<p><a href="https://git.icomera.com/LB6306/internet-usage">Internet Usage</a> (private) &mdash; Internet usage forecasting project.</p>
+</details>
+
+<details>
 <summary>Natural Language Processing</summary>
 </details>
 
