@@ -32,7 +32,7 @@ An index of projects organized by programming language.
 <summary>Computer Vision</summary>
 <p><a href="https://github.com/lendoo73/passenger-counter">Passenger Counter</a> &mdash; Counts passengers in bus footage using a trained YOLO model.</p>
 <p><a href="https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project">Deep Learning Recognition Using YOLOv8</a> &mdash; Complete YOLOv8 deep learning recognition project.</p>
-<p><a href="https://github.com/lendoo73/YOLOv26_GPU_Mode">YOLOv26 GPU Mode</a> &mdash; YOLO26 object detection running in GPU mode.</p>
+<p><a href="https://github.com/lendoo73/YOLOv26_GPU_Mode">YOLOv26 GPU Mode</a> &mdash; All YOLO26 models (detection, segmentation and more) running in GPU mode.</p>
 </details>
 
 <details>
