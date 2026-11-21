@@ -33,6 +33,7 @@ An index of projects organized by programming language.
 <p><a href="https://github.com/lendoo73/passenger-counter">Passenger Counter</a> &mdash; Counts passengers in bus footage using a trained YOLO model.</p>
 <p><a href="https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project">Deep Learning Recognition Using YOLOv8</a> &mdash; Complete YOLOv8 deep learning recognition project.</p>
 <p><a href="https://github.com/lendoo73/YOLOv26_GPU_Mode">YOLOv26 GPU Mode</a> &mdash; All YOLO26 models (detection, segmentation and more) running in GPU mode.</p>
+<p><a href="https://github.com/lendoo73/ml-api">ML API</a> &mdash; FastAPI back-end serving machine learning models (detection, segmentation, classification, pose estimation and more). Uses the models trained in <a href="https://github.com/lendoo73/YOLOv26_GPU_Mode">YOLOv26 GPU Mode</a>. Front-end: <a href="https://github.com/lendoo73/ml-react">ML React</a>.</p>
 </details>
 
 <details>
@@ -67,6 +68,11 @@ An index of projects organized by programming language.
 </details>
 
 ## <img src="icons/javascript.svg" alt="" width="24" height="24"> JavaScript
+
+<details>
+<summary>Web Development</summary>
+<p><a href="https://github.com/lendoo73/ml-react">ML React</a> &mdash; React front-end for the <a href="https://github.com/lendoo73/ml-api">ML API</a> back-end.</p>
+</details>
 
 ## <img src="icons/csharp.svg" alt="" width="24" height="24"> C#
 
