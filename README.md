@@ -30,6 +30,7 @@ An index of projects organized by programming language.
 
 <details>
 <summary>Computer Vision</summary>
+<p><a href="https://github.com/lendoo73/yolov7-python">YOLOv7 Object Detection (ONNX Runtime)</a> &mdash; OpenCV and ONNX Runtime inference on images, video, and webcam input. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
 <p><a href="https://github.com/lendoo73/python-for-computer-vision-with-opencv-and-deep-learning">Python for Computer Vision with OpenCV and Deep Learning</a> &mdash; Course materials for OpenCV and deep learning. <a href="https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/">Official course</a>.</p>
 <p><a href="https://github.com/lendoo73/passenger-counter">Passenger Counter</a> &mdash; Counts passengers in bus footage using a trained YOLO model.</p>
 <p><a href="https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project">Deep Learning Recognition Using YOLOv8</a> &mdash; Complete YOLOv8 deep learning recognition project.</p>
