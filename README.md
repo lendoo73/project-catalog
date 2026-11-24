@@ -30,6 +30,7 @@ An index of projects organized by programming language.
 
 <details>
 <summary>Computer Vision</summary>
+
 | Project | Description | Course/Source |
 | --- | --- | --- |
 | [YOLOv7 Windows CPU Installation](https://github.com/lendoo73/windows-install-yolov7-in-cpu-mode) | Windows CPU setup and inference guide for YOLOv7. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
@@ -42,6 +43,7 @@ An index of projects organized by programming language.
 | [Deep Learning Recognition Using YOLOv8](https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project) | Complete YOLOv8 deep learning recognition project. | &mdash; |
 | [YOLOv26 GPU Mode](https://github.com/lendoo73/YOLOv26_GPU_Mode) | All YOLO26 models (detection, segmentation and more) running in GPU mode. | &mdash; |
 | [Train YOLOv12 on a Custom Dataset](https://github.com/lendoo73/how-to-train-yolov12-object-detection-on-a-custom-dataset) | YOLOv12 object detection training with the Circuit Voltages dataset. | [Official tutorial](https://roboflow.com/blog/train-yolov12-model) |
+
 </details>
 
 <details>
