@@ -30,6 +30,7 @@ An index of projects organized by programming language.
 
 <details>
 <summary>Computer Vision</summary>
+<p><a href="https://github.com/lendoo73/windows-install-yolov7-in-cpu-mode">YOLOv7 Windows CPU Installation</a> &mdash; Windows CPU setup and inference guide for YOLOv7. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
 <p><a href="https://github.com/lendoo73/dataset-annotation-for-segmentation-using-labelme">Dataset Annotation for Segmentation Using LabelMe</a> &mdash; Converts LabelMe polygon annotations to YOLO segmentation labels. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
 <p><a href="https://github.com/lendoo73/yolov8-python">YOLOv8 Object Detection (OpenCV DNN)</a> &mdash; Runs YOLOv8 ONNX inference on images, video, and webcam input. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
 <p><a href="https://github.com/lendoo73/yolov7-python">YOLOv7 Object Detection (ONNX Runtime)</a> &mdash; OpenCV and ONNX Runtime inference on images, video, and webcam input. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
