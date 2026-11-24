@@ -30,16 +30,18 @@ An index of projects organized by programming language.
 
 <details>
 <summary>Computer Vision</summary>
-<p><a href="https://github.com/lendoo73/windows-install-yolov7-in-cpu-mode">YOLOv7 Windows CPU Installation</a> &mdash; Windows CPU setup and inference guide for YOLOv7. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
-<p><a href="https://github.com/lendoo73/windows-install-yolov7-in-gpu-mode">YOLOv7 Windows GPU Installation</a> &mdash; Windows GPU setup, inference, and face-mask training guide for YOLOv7. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
-<p><a href="https://github.com/lendoo73/dataset-annotation-for-segmentation-using-labelme">Dataset Annotation for Segmentation Using LabelMe</a> &mdash; Converts LabelMe polygon annotations to YOLO segmentation labels. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
-<p><a href="https://github.com/lendoo73/yolov8-python">YOLOv8 Object Detection (OpenCV DNN)</a> &mdash; Runs YOLOv8 ONNX inference on images, video, and webcam input. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
-<p><a href="https://github.com/lendoo73/yolov7-python">YOLOv7 Object Detection (ONNX Runtime)</a> &mdash; OpenCV and ONNX Runtime inference on images, video, and webcam input. <a href="https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/">Course</a>.</p>
-<p><a href="https://github.com/lendoo73/python-for-computer-vision-with-opencv-and-deep-learning">Python for Computer Vision with OpenCV and Deep Learning</a> &mdash; Course materials for OpenCV and deep learning. <a href="https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/">Official course</a>.</p>
-<p><a href="https://github.com/lendoo73/passenger-counter">Passenger Counter</a> &mdash; Counts passengers in bus footage using a trained YOLO model.</p>
-<p><a href="https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project">Deep Learning Recognition Using YOLOv8</a> &mdash; Complete YOLOv8 deep learning recognition project.</p>
-<p><a href="https://github.com/lendoo73/YOLOv26_GPU_Mode">YOLOv26 GPU Mode</a> &mdash; All YOLO26 models (detection, segmentation and more) running in GPU mode.</p>
-<p><a href="https://github.com/lendoo73/how-to-train-yolov12-object-detection-on-a-custom-dataset">Train YOLOv12 on a Custom Dataset</a> &mdash; YOLOv12 object detection training with the Circuit Voltages dataset. <a href="https://roboflow.com/blog/train-yolov12-model">Official tutorial</a>.</p>
+| Project | Description | Course/Source |
+| --- | --- | --- |
+| [YOLOv7 Windows CPU Installation](https://github.com/lendoo73/windows-install-yolov7-in-cpu-mode) | Windows CPU setup and inference guide for YOLOv7. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [YOLOv7 Windows GPU Installation](https://github.com/lendoo73/windows-install-yolov7-in-gpu-mode) | Windows GPU setup, inference, and face-mask training guide for YOLOv7. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [Dataset Annotation for Segmentation Using LabelMe](https://github.com/lendoo73/dataset-annotation-for-segmentation-using-labelme) | Converts LabelMe polygon annotations to YOLO segmentation labels. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [YOLOv8 Object Detection (OpenCV DNN)](https://github.com/lendoo73/yolov8-python) | Runs YOLOv8 ONNX inference on images, video, and webcam input. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [YOLOv7 Object Detection (ONNX Runtime)](https://github.com/lendoo73/yolov7-python) | OpenCV and ONNX Runtime inference on images, video, and webcam input. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [Python for Computer Vision with OpenCV and Deep Learning](https://github.com/lendoo73/python-for-computer-vision-with-opencv-and-deep-learning) | Course materials for OpenCV and deep learning. | [Official course](https://www.udemy.com/course/python-for-computer-vision-with-opencv-and-deep-learning/) |
+| [Passenger Counter](https://github.com/lendoo73/passenger-counter) | Counts passengers in bus footage using a trained YOLO model. | &mdash; |
+| [Deep Learning Recognition Using YOLOv8](https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project) | Complete YOLOv8 deep learning recognition project. | &mdash; |
+| [YOLOv26 GPU Mode](https://github.com/lendoo73/YOLOv26_GPU_Mode) | All YOLO26 models (detection, segmentation and more) running in GPU mode. | &mdash; |
+| [Train YOLOv12 on a Custom Dataset](https://github.com/lendoo73/how-to-train-yolov12-object-detection-on-a-custom-dataset) | YOLOv12 object detection training with the Circuit Voltages dataset. | [Official tutorial](https://roboflow.com/blog/train-yolov12-model) |
 </details>
 
 <details>
