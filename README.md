@@ -45,6 +45,7 @@ An index of projects organized by programming language.
 | [Deep Learning Recognition Using YOLOv8](https://github.com/lendoo73/deep-learning-recognition-using-yolov8-complete-project) | Complete YOLOv8 deep learning recognition project. | &mdash; |
 | [YOLOv26 GPU Mode](https://github.com/lendoo73/YOLOv26_GPU_Mode) | All YOLO26 models (detection, segmentation and more) running in GPU mode. | &mdash; |
 | [Train YOLOv12 on a Custom Dataset](https://github.com/lendoo73/how-to-train-yolov12-object-detection-on-a-custom-dataset) | YOLOv12 object detection training with the Circuit Voltages dataset. | [Official tutorial](https://roboflow.com/blog/train-yolov12-model) |
+| [Detectron2 Instance Segmentation](https://github.com/lendoo73/instance-segmentation-install-detectron2) | Detectron2 upstream checkout with installation and instance-segmentation guidance. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 
 </details>
 
