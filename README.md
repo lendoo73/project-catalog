@@ -50,6 +50,7 @@ An index of projects organized by programming language.
 | [YOLOv9 Windows CPU Installation](https://github.com/lendoo73/windows-install-yolov9-in-cpu-mode) | Windows CPU installation and inference guide for YOLOv9. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 | [YOLOv9 Windows GPU Installation](https://github.com/lendoo73/windows-install-yolov9-in-gpu-mode) | Windows GPU setup, inference, face-mask training, and vehicle-counting examples for YOLOv9. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 | [YOLOv10 Windows CPU Installation](https://github.com/lendoo73/windows-install-yolov10-in-cpu-mode) | Windows CPU setup and inference guide for YOLOv10; rights-cleared demo videos are stored with Git LFS. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [YOLOv10 Windows GPU Installation](https://github.com/lendoo73/windows-install-yolov10-in-gpu-mode) | Windows GPU setup, inference, and road-sign training with YOLOv10. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 | [YOLOv26 GPU Mode](https://github.com/lendoo73/YOLOv26_GPU_Mode) | All YOLO26 models (detection, segmentation and more) running in GPU mode. | &mdash; |
 
 </details>
