@@ -13,23 +13,23 @@ An index of projects organized by programming language.
 </details>
 
 <details>
-<summary>AI</summary>
+<summary>:brain: AI</summary>
 
 <blockquote>
 <details>
-<summary>Machine Learning</summary>
+<summary>:robot: Machine Learning</summary>
 </details>
 
 <details>
-<summary>Deep Learning</summary>
+<summary>:sparkles: Deep Learning</summary>
 </details>
 
 <details>
-<summary>Reinforcement Learning</summary>
+<summary>:game_die: Reinforcement Learning</summary>
 </details>
 
 <details>
-<summary>Computer Vision</summary>
+<summary>:eyes: Computer Vision</summary>
 
 | Project | Description | Course/Source |
 | --- | --- | --- |
@@ -60,16 +60,16 @@ An index of projects organized by programming language.
 </details>
 
 <details>
-<summary>Timeseries Forecasting</summary>
+<summary>:chart_with_upwards_trend: Timeseries Forecasting</summary>
 <p><a href="https://git.icomera.com/LB6306/internet-usage">Internet Usage</a> (private) &mdash; Internet usage forecasting project.</p>
 </details>
 
 <details>
-<summary>Natural Language Processing</summary>
+<summary>:speech_balloon: Natural Language Processing</summary>
 </details>
 
 <details>
-<summary>Generative AI</summary>
+<summary>:art: Generative AI</summary>
 </details>
 </blockquote>
 </details>
