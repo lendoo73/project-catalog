@@ -2,10 +2,6 @@
 
 An index of projects organized by programming language.
 
-## Maintaining the catalog
-
-When adding a repository to a catalog table, re-sort every row in that table alphabetically by the displayed project or repository name. Preserve each row's content, links, and table formatting, and verify that the full table is in order before committing.
-
 ## <img src="icons/python.svg" alt="" width="24" height="24"> Python
 
 <details>
