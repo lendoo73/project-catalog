@@ -54,6 +54,7 @@ An index of projects organized by programming language.
 | [YOLOv10 Object Detection (ONNX Runtime)](https://github.com/lendoo73/yolov10-python) | Runs YOLOv10 ONNX inference on images, video, and webcam input. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 | [YOLOv10 Windows CPU Installation](https://github.com/lendoo73/windows-install-yolov10-in-cpu-mode) | Windows CPU setup and inference guide for YOLOv10; rights-cleared demo videos are stored with Git LFS. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 | [YOLOv10 Windows GPU Installation](https://github.com/lendoo73/windows-install-yolov10-in-gpu-mode) | Windows GPU setup, inference, and road-sign training with YOLOv10. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
+| [YOLOv11 Object Detection (OpenCV DNN)](https://github.com/lendoo73/yolov11-object-detection) | Runs YOLOv11 ONNX inference on images, video, and webcam input; model weights are excluded and the sample video uses Git LFS. | [Course](https://www.udemy.com/course/yolo-masterclass-deep-learning-computer-vision-course/) |
 | [YOLOv26 GPU Mode](https://github.com/lendoo73/YOLOv26_GPU_Mode) | All YOLO26 models (detection, segmentation and more) running in GPU mode. | &mdash; |
 
 </details>
